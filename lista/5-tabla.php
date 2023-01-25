@@ -28,7 +28,7 @@ $html = '
             <br>
             <div align="justify" style="margin-left:10px; margin-right:10px;">
                Leído que fue por las partes que lo firman para constancia, en la Ciudad de Toluca de Lerdo,  a los <u> dos </u> días del mes 
-               de <u> enero </u> de <u> 2023. </u>
+               de <u> enero</u> de <u> 2023.</u>
             </div>
             <br><br>
             <div align="center" style="margin-left:10px; margin-right:10px;">
@@ -132,13 +132,13 @@ $html = '
                         <div class="tittle1" align="right" > 
                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                           OFICIO No. 20706000000000L-0207/2023,
+                           OFICIO No. <u>20706000000000L-0207/2023,</u>
                         </div>
                         <br>
                         <div class="tittle1" align="right"> 
                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-                           DE FECHA: 17 DE ENERO DE 2023.
+                           DE FECHA: <u>17 DE ENERO DE 2023.</u>
                         </div>
                         <br>
                         <br>
@@ -150,37 +150,37 @@ $html = '
             <br>
             <div class="nota" align="left"> &nbsp;&nbsp;<em> Nota: </em> Se anexan copias de los documentos de  <em> “El Servidor Público”: </em></div>
             <br>
-            <table style="border:0px solid black;border-collapse:collapse; width: 100%; " >
+            <table style="border:-2px solid black;border-collapse:collapse; width: 100%; " >
                <thead>
                   <tr colspan="2" style="margin-top:0">
                      <td style="border-top: none;  padding-left: 7.5pt; width: 50%;"  >
-                        - Acta de Nacimiento
+                         -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Acta de Nacimiento
                         <div>
-                           -CURP
+                           -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CURP
                         </div>
                         <div>
-                           -R.F.C. 
+                           -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R.F.C. 
                         </div>
                      </td>
                      <td style="border-top: none;  padding-left: 7.5pt; width: 50%;"  >
-                        -Credencial para Votar
+                     -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Credencial para Votar
                         <div>
-                           -Cartilla del Servicio Militar Nacional 
+                        -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cartilla del Servicio Militar Nacional 
                         </div>
                         <div>
-                           -Constancia de Estudios
+                        -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Constancia de Estudios
                         </div>
                      </td>
                   </tr>
                </thead>
             </table>
-            <table style="border:0px solid black;border-collapse:collapse; width: 100%; " >
+            <table style="border:none solid black;border-collapse:collapse; width: 100%; " >
                <thead>
                   <tr>
                      <td colspan="1" style=" padding-left: 7.5pt; "  style="border-bottom: none;">
                      &nbsp; ESTA FOJA FORMA PARTE DEL CONTRATO INDIVIDUAL DE TRABAJO POR TIEMPO DETERMINADO QUE CELEBRA EL  &nbsp;  &nbsp;  &nbsp; 
                         GOBIERNO DEL ESTADO DE MÉXICO CON MARIBEL BERNAL VILLANUEVA A TRES FOJAS ÚTILES, DEBIDAMENTE   &nbsp;  &nbsp;  &nbsp;  &nbsp;   &nbsp; 
-                        SIGNADAS A LOS <u> DOS</u> DÍAS DEL MES DE <u> ENERO </u> DE <u> 2023. </u>
+                        SIGNADAS A LOS <u> DOS</u> DÍAS DEL MES DE <u> ENERO</u> DE <u> 2023.</u>
                      </td>
                   </tr>
                   <br>

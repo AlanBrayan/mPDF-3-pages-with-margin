@@ -196,10 +196,10 @@ $html = '
             <em>
             CONTRATO INDIVIDUAL DE TRABAJO POR TIEMPO DETERMINADO, QUE CELEBRAN POR UNA PARTE EL 
             GOBIERNO DEL ESTADO DE MÉXICO, POR CONDUCTO DE LA SECRETARÍA <u> DE FINANZAS A TRAVÉS DE LA 
-            DIRECCIÓN GENERAL DE INNOVACIÓN, </u> REPRESENTADA POR SU TITULAR EL C. <u> ALFONSO CAMPUZANO RAMÍREZ </u>
-            Y CON INTERVENCIÓN DE LA C.P. <u> MARTHA BEATRIZ ARISTA VÁZQUEZ, </u> EN SU CARÁCTER DE COORDINADORA 
+            DIRECCIÓN GENERAL DE INNOVACIÓN,</u> REPRESENTADA POR SU TITULAR EL C. <u> ALFONSO CAMPUZANO RAMÍREZ</u>
+            Y CON INTERVENCIÓN DE LA C.P. <u> MARTHA BEATRIZ ARISTA VÁZQUEZ,</u> EN SU CARÁCTER DE COORDINADORA 
             ADMINISTRATIVA DE LA SECRETARÍA DE FINANZAS, POR LA OTRA PARTE, EL C. <u> MIGUEL ÁNGEL MARTÍNEZ 
-            URZUA, </U> A QUIENES PARA EFECTO DEL PRESENTE CONTRATO SE LES DENOMINARÁ “EL GOBIERNO” Y “EL
+            URZUA,</U> A QUIENES PARA EFECTO DEL PRESENTE CONTRATO SE LES DENOMINARÁ “EL GOBIERNO” Y “EL
             SERVIDOR PÚBLICO”, RESPECTIVAMENTE, AL TENOR DE LAS DECLARACIONES Y CLÁUSULAS SIGUIENTES:
             </em>
          </div>
@@ -236,7 +236,7 @@ $html = '
             <div style="font-family: timesnewroman;" style="font-size: 7.4pt" class="leftdiv36" style="text-align: justify;">
                Que requiere contratar los servicios de <em> “El Servidor Público” </em> por un tiempo determinado, en virtud de que 
                así lo exige la naturaleza del trabajo, el cual consiste esencialmente en el desarrollo de <u> las funciones de 
-               <em> ASISTENTE TELEFÓNICO </em> adscrito al Centro de Atención Telefónica del Gobierno del Estado de México, </u> en la 
+               <em> ASISTENTE TELEFÓNICO </em> adscrito al Centro de Atención Telefónica del Gobierno del Estado de México,</u> en la 
                inteligencia de que las causas que han dado origen a éste son transitorias; por tanto, ambas partes están 
                conformes en que terminado el plazo estipulado en el contrato concluirá en todos sus efectos, de acuerdo con 
                la legislación laboral vigente.
@@ -276,9 +276,9 @@ $html = '
             <div style="font-family: timesnewroman;" style="font-size: 7.4pt" class="leftdiv43" style="text-align: left" >II.I
             </div>
             <div style="font-family: timesnewroman;" style="font-size: 7.4pt" class="leftdiv44" style="text-align: justify;">
-               Que es de nacionalidad <u> mexicana, </u>  de 34 años de edad, sexo <u> masculino,  </u> estado civil <u> soltero, </u> R.F.C.  <u> MAUM871220BR8, </u> fecha de nacimiento
-               <u> 20  </u> de  <u> diciembre </u> de <u> 1987, </u>  credencial para votar número <u> 5320106447853, </u>  domicilio particular en <u> calle Laguna de Gigantes, No. 706, Col. 
-               Nueva Oxtotitlán, Toluca, C.P. 50100, </u> teléfono <u> 7225355172,</u>  y con grado académico de <u> Pasante de la Licenciatura en Administración. </u>
+               Que es de nacionalidad <u> mexicana, </u>  de 34 años de edad, sexo <u> masculino,</u>estado civil<u> soltero,</u> R.F.C.  <u> MAUM871220BR8,</u> fecha de nacimiento
+               <u>20</u> de  <u>diciembre</u>  de  <u> 1987,</u>  credencial para votar número <u> 5320106447853,</u>  domicilio particular en <u> calle Laguna de Gigantes, No. 706, Col. 
+               Nueva Oxtotitlán, Toluca, C.P. 50100, </u> teléfono <u> 7225355172,</u>  y con grado académico de <u> Pasante de la Licenciatura en Administración.</u>
             </div>
          </div>
          <br><br><br><br><br>
