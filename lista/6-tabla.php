@@ -1,5 +1,6 @@
 <?php
-$mpdf->SetHTMLHeader('<img src="lista/1.jpg" style="float: left; margin: 0px 0px 40px 1px;" width="240 " height="60"/>');
+
+
 $html = '
 <!DOCTYPE html>
 <html lang="en">
@@ -342,12 +343,18 @@ $html = '
       }
     </style>
   </head>
+
   <body>
+  <img src="lista/1.jpg" style="margin: 0px 0px 0px 0px;" width="240 " height="60">
+
     <div class="sub_div">
       <p>20301/NP-101/16 </p>
     </div>
+    
     <div clas="container">
-    <br><br>
+    
+<br>
+
     <div class="table-responsive" >
       <table  id="table1" style="width:30%">
         <tr>
@@ -356,7 +363,9 @@ $html = '
         </tr>
       </table>
     </div>
+    
     <br> 
+
     <div id="light-table">
     <table style="width:100%"   >
       <tr  style="border">
@@ -633,8 +642,9 @@ $html = '
           </em>
         </div>
       </div>
-      <br><br><br>
+
     </div>
+    
   </body>
 </html>
 ';
