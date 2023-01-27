@@ -1,7 +1,5 @@
 <?php
-$mpdf->SetHTMLFooter('  
-<p style="text-align:right; margin-bottom: 10%;">20301/NP-23/21</p>
-');
+//$mpdf->SetHTMLFooter('<img src="lista/1.jpg" style="float: left; margin: 0px 0px 50px 1px;" width="310" height="70"/>');
 $html = '
 <!DOCTYPE html>
 <html lang="en">
@@ -10,12 +8,13 @@ $html = '
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>PDF</title>
       <style>
+         @page {
+         margin: 1%;
+         }   
          tad {
          border:0px;
          }
-         em {
-         font-weight: bold;
-         }
+
          #light-table {
          border-style:double;
          border-width: 4.5px 4.5px 4.5px;
@@ -90,8 +89,8 @@ $html = '
          }
          .sub_div {
          position: absolute;
-         bottom:78px;
-         left:645px;
+         bottom:8px;
+         left:600px;
          }
          #leftdivcontainer1 {
          width: 100%;
@@ -174,15 +173,31 @@ $html = '
          position: absolute;
          width:94%;
          } 
+         .sub_div {
+         float: right;
+         bottom:1px;
+         left:695px;
+         }
+         .sub_div2 {
+         position: fixed;
+         min-height: 1200px;
+         text-align: center;
+         word-wrap: break-word;
+         width: 252px;
+         margin-top:1067px;
+         margin-left:1100px;
+         }
       </style>
    </head>
-   <img src="lista/1.jpg" style="float: left; margin: 0px 0px 50px 1px;" width="310" height="70"> 
    <body style="font-family: timesnewroman;">
+      <div class="sub_div" align="right">
+         <p>20301/NP-101/16 </p>
+      </div>
       <div clas="container">
       <img src="lista/1.jpg" style="float: left;" width="310" height="70"> 
-      <br><br><br> <br><br>
-      <div id="light-table ">
-      <table style="width:125%">
+      <br><br><br><br><br>
+      <div id="light-table " >
+      <table style="width:100%">
          <tr style="width=100%">
             <th colspan="2"  style="text-align: center;   background-color: rgb(156, 156, 156) ;  font-size: 11pt;" >
                <div><br></div>
@@ -193,7 +208,7 @@ $html = '
       </table>
       <div id="light-table1">
          <div id="leftdivcontainer" class="clearfix" style="text-align: justify;" >
-            <em>
+            <b>
             CONTRATO INDIVIDUAL DE TRABAJO POR TIEMPO DETERMINADO, QUE CELEBRAN POR UNA PARTE EL 
             GOBIERNO DEL ESTADO DE MÉXICO, POR CONDUCTO DE LA SECRETARÍA <u> DE FINANZAS A TRAVÉS DE LA 
             DIRECCIÓN GENERAL DE INNOVACIÓN,</u> REPRESENTADA POR SU TITULAR EL C. <u> ALFONSO CAMPUZANO RAMÍREZ</u>
@@ -201,48 +216,58 @@ $html = '
             ADMINISTRATIVA DE LA SECRETARÍA DE FINANZAS, POR LA OTRA PARTE, EL C. <u> MIGUEL ÁNGEL MARTÍNEZ 
             URZUA,</U> A QUIENES PARA EFECTO DEL PRESENTE CONTRATO SE LES DENOMINARÁ “EL GOBIERNO” Y “EL
             SERVIDOR PÚBLICO”, RESPECTIVAMENTE, AL TENOR DE LAS DECLARACIONES Y CLÁUSULAS SIGUIENTES:
-            </em>
+            </b>
          </div>
       </div>
       <h4  align="center" id="tabla1">D E C L A R A C I O N E S</h4>
+      <br><br>
       <div id="light-table3">
       <div id="leftdivcontainer" class="clearfix">
-         <div style="font-family: timesnewroman;" style="font-size: 7.4pt" class="leftdiv31" style="text-align:left" ><em>I.</em>
+         <div style="font-family: timesnewroman;" style="font-size: 7.4pt" class="leftdiv31" style="text-align:left" ><b>I.</b>
          </div>
-         <div style="font-family: timesnewroman;" style="font-size: 7.4pt" class="leftdiv32"   style="text-align: left;" ><em>De “El Gobierno”</em>
+         <div style="font-family: timesnewroman;" style="font-size: 7.4pt" class="leftdiv32"   style="text-align: left;" ><b>De “El Gobierno”</b>
          </div>
+
+
+
+
+
       </div>
+
+      <br><br>
       <div id="light-table3">
          <div id="leftdivcontainer" class="clearfix">
             <div style="font-family: timesnewroman;" style="font-size: 7.4pt" class="leftdiv33" style="text-align: left" >I.I
             </div>
             <div style="font-family: timesnewroman;" style="font-size: 7.4pt" class="leftdiv34" style="text-align: justify;" >
-               I.1	Que con fundamento en lo establecido en los artículos 13 fracción I de la Ley de Disciplina Financiera de las 
+               Que con fundamento en lo establecido en los artículos 13 fracción I de la Ley de Disciplina Financiera de las 
                Entidades Federativas y los Municipios; 78 de la Constitución Política del Estado Libre y Soberano de México; 
                1,3,15,19 fracción III, 23 y 24 fracción XXXIV de la Ley Orgánica de la Administración Pública del Estado de 
                México; 1, 3 fracciones IV y XX, 5, 9 fracciones II y XIV, 33 fracción XXVII y 41 de su Reglamento Interior; 
                Décima Tercera fracción VIII de las Medidas de Austeridad y Contención al Gasto Público del Poder Ejecutivo
                del Gobierno del Estado de México; DAP-028 del Acuerdo por el que se establecen las normas administrativas 
                para la asignación y uso de bienes y servicios de las Dependencias y Organismos Auxiliares del Poder 
-               Ejecutivo Estatal<em>, la Secretaría de Finanzas a través de la Dirección General de Innovación, </em>
+               Ejecutivo Estatal<b>, la Secretaría de Finanzas a través de la Dirección General de Innovación, </b>
                puede celebrar el presente contrato.
             </div>
          </div>
       </div>
+      <br><br>
       <div id="light-table3">
          <div id="leftdivcontainer" class="clearfix">
             <div style="font-family: timesnewroman;" style="font-size: 7.4pt" class="leftdiv35" style="text-align: left" >I.2
             </div>
             <div style="font-family: timesnewroman;" style="font-size: 7.4pt" class="leftdiv36" style="text-align: justify;">
-               Que requiere contratar los servicios de <em> “El Servidor Público” </em> por un tiempo determinado, en virtud de que 
+               Que requiere contratar los servicios de <b> “El Servidor Público” </b> por un tiempo determinado, en virtud de que 
                así lo exige la naturaleza del trabajo, el cual consiste esencialmente en el desarrollo de <u> las funciones de 
-               <em> ASISTENTE TELEFÓNICO </em> adscrito al Centro de Atención Telefónica del Gobierno del Estado de México,</u> en la 
+               <b> ASISTENTE TELEFÓNICO </b> adscrito al Centro de Atención Telefónica del Gobierno del Estado de México,</u> en la 
                inteligencia de que las causas que han dado origen a éste son transitorias; por tanto, ambas partes están 
                conformes en que terminado el plazo estipulado en el contrato concluirá en todos sus efectos, de acuerdo con 
                la legislación laboral vigente.
             </div>
          </div>
       </div>
+      <br><br>
       <div id="light-table3">
          <div id="leftdivcontainer" class="clearfix">
             <div style="font-family: timesnewroman;" style="font-size: 7.4pt" class="leftdiv37" style="text-align: left" >I.3
@@ -254,6 +279,7 @@ $html = '
             </div>
          </div>
       </div>
+      <br><br>
       <div id="light-table3">
       <div id="leftdivcontainer" class="clearfix">
          <div style="font-family: timesnewroman;" style="font-size: 7.4pt" class="leftdiv39" style="text-align: left" >I.4
@@ -266,11 +292,12 @@ $html = '
       <br><br><br>
       <div id="light-table2">
       <div id="leftdivcontainer" class="clearfix">
-         <div style="font-family: timesnewroman;" style="font-size: 7.4pt" class="leftdiv41"  style="text-align: left;" ><em>I.I</em>
+         <div style="font-family: timesnewroman;" style="font-size: 7.4pt" class="leftdiv41"  style="text-align: left;" ><b>I.I</b>
          </div>
-         <div style="font-family: timesnewroman;" style="font-size: 7.4pt" class="leftdiv42"   style="text-align: left;" ><em>De “El Servidor Público”</em>
+         <div style="font-family: timesnewroman;" style="font-size: 7.4pt" class="leftdiv42"   style="text-align: left;" ><b>De “El Servidor Público”</b>
          </div>
       </div>
+      <br><br>
       <div id="light-table2">
          <div id="leftdivcontainer" class="clearfix">
             <div style="font-family: timesnewroman;" style="font-size: 7.4pt" class="leftdiv43" style="text-align: left" >II.I
@@ -281,15 +308,14 @@ $html = '
                Nueva Oxtotitlán, Toluca, C.P. 50100, </u> teléfono <u> 7225355172,</u>  y con grado académico de <u> Pasante de la Licenciatura en Administración.</u>
             </div>
          </div>
-         <br><br><br><br><br>
+         <br><br>  <br><br>  <br><br>  <br><br>
       </div>
-      <div style="page-break-inside: avoid;">
-         <div class="titulo"> &nbsp; &nbsp; &nbsp;</div>
-         <div class="texto"> &nbsp; &nbsp; &nbsp; &nbsp;</div>
-      </div>
+      <br>  <br>
    </body>
 </html>
 ';
 $mpdf->WriteHTML($html);
-include 'lista/4-tabla.php';
+//$mpdf->AddPage(   );
+//include 'lista/4-tabla.php';
+require_once('lista/4-tabla.php');
 $mpdf->Output();
