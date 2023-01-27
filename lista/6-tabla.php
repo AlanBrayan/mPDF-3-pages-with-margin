@@ -322,12 +322,6 @@ $html = '
       position: relative;
       width:180px; 
       }
-
-
-
-      <!--Tipo de pago por terminacion de relacion laboral-->
-      
-     
       .container {
       display: table;
       width: 20%;
@@ -346,13 +340,6 @@ $html = '
       display: table-cell;
       padding: 2px;
       }
-      
-
-
-
-
-
-
     </style>
   </head>
   <body>
@@ -376,7 +363,6 @@ $html = '
         <th colspan="3"  style="text-align: center;  border:1px solid black;  background-color: rgb(156, 156, 156) ; border-right: none; border-left: none; none; border-top: none; none; border-bottom: none;" >RECIBO PARA TRÁMITE DE PAGOS</th>
       </tr>
     </table>
-
     <div id="light-table1">
       <div id="leftdivcontainer" class="clearfix" style="border:1px solid black; border-left:none; border-right:none;">
         <div style="font-family: dejavusans;" style="font-size: 7.4pt" class="leftdiv10">APELLIDO PATERNO</div>
@@ -410,16 +396,13 @@ $html = '
           &nbsp;   &nbsp; &nbsp;<b>FINIQUITO</em>
         </p>
       </div>
-
-      <!-- Tipo de pago -->
-
       <div style="font-family: dejavusans;" style="font-size: 7.9pt; " class="leftdiv2" id="light-table-paragraph">
         <div id="light-table5">
           <div id="leftdivcontainer">
             <table class="container">
               <tr class="table-row" style="padding-bottom:4px;">
                 <td class="table-cell" style="text-align:center; padding-bottom:4px;">
-                  X 
+                  X
                 </td >
                 <td class="table-cessll"  style="border-top: none; border-left: none; border-bottom: none; border-right: none; width:200px; height:30px; padding-left:10px; ">
                   Baja por renuncia
@@ -506,9 +489,6 @@ $html = '
         </table>
       </div>
     </div>
-
-    <!-- Tipo de pago -->
-
     <div style="width: 100%;"  style=" height: 50%;">
     <div id="tabla1">
       <h4 id="tabla1" style="margin-left:10px; none; border-left: none;"> Partida Presupuestal: 126 010804010101 11010101 20706006000000L 1222 5100</h4>
